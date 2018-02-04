@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">miCrud</string>
+    <string name="main_layout_name">ejemplo de crud</string>
+    <string name="registro_usuarios">Registrar usuarios.</string>
+    <string name="consultar_usuarios">Consultar usuarios.</string>
+    <string name="consult_usuarios_spinner">Consultar lista de usuarios usando Spinner.</string>
+    <string name="consult_usuarios_listView">Consultar lista de usuarios usando listView.</string>
+    <string name="btn_reg_datos">Registar datos del usuario.</string>
+    <string name="consultar_usuarios_mensaje">Consultar los datos del usuario.</string>
+    <string name="consult_usuarios_listView_mensaje">Consultar usuarios con listView.</string>
+    <string name="consult_usuarios_spinner_mensaje">Consultar usuarios con spinner.</string>
+</resources>
